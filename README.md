@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm studying computer science at Princeton, with a focus on machine learning. <br><br>I most recently interned at SpaceX on Starlink software, and my current research explores language models to reduce stereotype bias in decision-making. <br><br>You can currently catch me tinkering with</p>
+<p align="left">I'm studying computer science at Princeton, with a focus on machine learning. <br><br>I most recently interned at SpaceX on Starlink software, and my current research explores using language models to mitigate stereotype bias in decision-making. <br><br>You can currently catch me tinkering with</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I also love hiking, lifting, Chinese food, cooking, and string instruments. My best lift total is 1005 lbs, I help run a pop-up restaurant on campus, and I mess around in the Army Reserve. <br><br>You can find me (and my cooking) on</p>
+<p align="left">I also love hiking, lifting, Chinese food, cooking, and string instruments. My best lift total is 1005 lbs, I help run a pop-up restaurant on campus, and I'm in the Army Reserve. <br><br>You can find me (and my cooking) on</p>
 
 ###
 
