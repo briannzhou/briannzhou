@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm studying computer science at Princeton, with a focus on machine learning. <br><br>This past summer, I interned at SpaceX on Starlink software, and my current research explores language models to reduce stereotype bias in decision-making. <br><br>You can currently catch me tinkering with</p>
+<p align="left">I'm studying computer science at Princeton, with a focus on machine learning. <br><br>I most recently interned at SpaceX on Starlink software, and my current research explores language models to reduce stereotype bias in decision-making. <br><br>You can currently catch me tinkering with</p>
 
 ###
 
