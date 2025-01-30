@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I also love hiking, lifting, Chinese food, cooking, and string instruments. My best lift total is 1005 lbs, I help run a pop-up restaurant on campus, and I'm in the Army Reserve. <br><br>You can find me (and my cooking) on</p>
+<p align="left">I also love hiking, lifting, Chinese food, cooking, and string instruments. My best lift total is 1005 lbs, I help run a pop-up restaurant on campus, and I play guitar in a band with friends. I'm also in the Army Reserve. <br><br>You can find me (and my cooking) on</p>
 
 ###
 
