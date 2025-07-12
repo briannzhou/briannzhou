@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm studying computer science at Princeton, with a focus on machine learning. <br><br>I most recently interned at SpaceX on Starlink software, where I built Starlink's wifi telemetry system (you can see me "working from home" on the left). I was also one of the first software engineers in Starlink's new Aviation arm. At school, my current research explores AI alignment in multi-agent systems, which spun out of a project that placed 2nd at Anthropic's first alignment hack! <br><br>You can currently catch me tinkering with</p>
+<p align="left">I'm studying computer science at Princeton, with a focus on machine learning. <br><br>For the past 2 years, I've interned at SpaceX on Starlink software, where I built and owned Starlink's wifi telemetry system. I was also one of the first software engineers in Starlink's new Aviation arm, and you can see me "working from home" on the left. If you've flown recently, you've probably used my code somewhere! 
+  
+At school, my current research explores AI alignment in multi-agent systems, which spun out of a project that placed 2nd at Anthropic's first alignment hack! <br><br>You can currently catch me tinkering with</p>
 
 ###
 
