@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm studying computer science at Princeton, with a focus on machine learning. <br><br>I was most recently at SpaceX, where I wrote Starlink's wifi telemetry system. I was also one of the first software engineers on Starlink's aviation effort. If you've flown recently (on certain airlines), you've probably used my code! 
+<p align="left">I'm studying computer science at Princeton, with a focus on machine learning. <br><br>I was most recently at SpaceX, where I wrote Starlink's wifi telemetry system. I was also one of the first software engineers on Starlink's Aviation project. If you've flown recently (on certain airlines), you've probably used my code! 
   
 My current research at school explores AI alignment in multi-agent systems, particularly for public sector applications, which spun out of a project we did at Anthropic. <br><br>You can currently catch me tinkering with</p>
 
