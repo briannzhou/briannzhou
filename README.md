@@ -6,7 +6,7 @@
   
 My current research explores AI alignment in public sector applications, advised by Prof. Arvind Narayanan and funded by Anthropic. I previously researched computer vision for 2D quantum materials, advised by Prof. Olga Russakovsky.
 
-I also love hiking, lifting, new foods, and cooking. My best lift total is 1005 lbs, and I help run a pop-up restaurant on campus. At Princeton, I also led our region's Army ROTC program and graduated Air Assault School. </p>
+I love hiking, lifting, new foods, and cooking. My best lift total is 1005 lbs, and I help run a pop-up restaurant on campus. At Princeton, I also led our region's Army ROTC program and graduated Air Assault School. </p>
 <p align="center">
   <img src="collage.png" alt="collage" width="1800"/>
 </p>
