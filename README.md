@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently an engineer at Cognition, building our new government business. <br><br>I was previously at SpaceX, where I wrote Starlink's wifi telemetry system and designed Starlink's Enterprise & Government interface. I was also an early member of the original team that launched Starlink for Aviation. If you've flown recently (on certain airlines), you've probably used a bit of my code! 
+<p align="left">I'm currently an engineer at Cognition, building AI for government. <br><br>I was previously at SpaceX, where I wrote Starlink's wifi telemetry system and designed Starlink's Enterprise & Government interface. I was also an early member of the original team that launched Starlink for Aviation. If you've flown recently (on certain airlines), you've probably used a bit of my code! 
   
 My current research explores AI alignment in public sector applications, advised by Prof. Arvind Narayanan and funded by Anthropic. I previously researched computer vision for 2D quantum material discovery, advised by Prof. Olga Russakovsky.
 
