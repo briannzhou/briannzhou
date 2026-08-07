@@ -10,5 +10,5 @@ My previous research explored AI alignment in multi-agent and public sector appl
 
 I love hiking, lifting, new foods, and cooking. My best lift total is 1005 lbs, and I help run a pop-up restaurant on campus. At Princeton, I also led our region's Army ROTC battalion and graduated Air Assault School. </p>
 <p align="center">
-  <img src="collage.png" alt="collage" width="1200"/>
+  <img src="collage.png" alt="collage" width="800"/>
 </p>
