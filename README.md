@@ -2,13 +2,13 @@
 
 ###
 
-<p align="left">I'm currently an engineer at Cognition, building our new public sector business. I work on the Devin products, lead our compliant models/infra work, and occasionally do post-training. I also support our FDE efforts.
+<p align="left">I'm currently an engineer at Cognition, building our new public sector business. I work on Devin, lead our compliant models/performance work, and occasionally do post-training. I also support our business and GTM efforts.
   
-I was previously at SpaceX, where I wrote Starlink's wifi telemetry system and designed Starlink's Enterprise & Government interface. I was also part of the original team that launched Starlink for Aviation. If you've flown recently (on certain airlines), you've probably used a bit of my code! 
+I was previously at SpaceX, where I wrote Starlink's wifi telemetry system and designed Starlink's Enterprise & Government interface. I was also part of the original team that launched Starlink for Aviation. If you've flown recently (on certain airlines), you've probably used some of my code! 
   
 My previous research explored AI alignment in multi-agent and public sector applications, advised by Prof. Arvind Narayanan and funded by Anthropic. I also researched computer vision for 2D quantum material discovery, advised by Prof. Olga Russakovsky.
 
 I love hiking, lifting, new foods, and cooking. My best lift total is 1005 lbs, and I helped run a pop-up restaurant on campus. At Princeton, I also led our region's Army ROTC battalion and graduated Air Assault School at Fort Campbell. </p>
 <p align="center">
-  <img src="collage.png" alt="collage" width="950"/>
+  <img src="collage.png" alt="collage" width="900"/>
 </p>
