@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm currently an engineer at Cognition, building our new public sector business. I work on Devin, lead our compliant models/performance work, and occasionally do post-training. I also support our business and GTM efforts.
+<p align="left">I'm currently an engineer at Cognition, building our new public sector business. I work on the Devin product, models/performance, FDE, and occasionally post-training.
   
 I was previously at SpaceX, where I wrote Starlink's wifi telemetry system and designed Starlink's Enterprise & Government interface. I was also part of the original team that launched Starlink for Aviation. If you've flown recently (on certain airlines), you've probably used some of my code! 
   
