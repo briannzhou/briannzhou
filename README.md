@@ -4,7 +4,7 @@
 
 <p align="left">I'm currently an engineer at Cognition, building our new public sector business. I work on the Devin product, models/performance, FDE, and occasionally post-training.
   
-I was previously at SpaceX, where I wrote Starlink's wifi telemetry system and designed Starlink's Enterprise & Government interface. I was also part of the original team that launched Starlink for Aviation. If you've flown recently (on certain airlines), you've probably used some of my code! 
+I was previously at SpaceX, where I wrote Starlink's wifi telemetry system and designed Starlink's enterprise and government interfaces. I was also part of the original team that launched Starlink for Aviation. If you've flown recently (on certain airlines), you've probably used some of my code! 
   
 My previous research explored AI alignment in multi-agent and public sector applications, advised by Prof. Arvind Narayanan and funded by Anthropic. I also researched computer vision for 2D quantum material discovery, advised by Prof. Olga Russakovsky.
 
